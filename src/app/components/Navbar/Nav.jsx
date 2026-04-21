@@ -21,12 +21,7 @@ const Nav = () => {
         
         {/* Left - Logo */}
         <div className="flex items-center gap-2">
-         <Image
-  src={logo}
-  fill
-  alt="image"
-  sizes="(max-width: 768px) 100vw, 50vw"
-/>
+          <Image src={logo} alt="Nil's To Do Logo" width={40} height={40} />
           <span className="hidden text-lg font-semibold md:block">
             <p>Nil-s Todo</p>
           </span>

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Fix navbar responsiveness",
+    "description": "Ensure mobile menu works smoothly and links are centered properly",
+    "status": "in-progress",
+    "priority": "high",
+"image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5",
+    "dueDate": "2026-04-22",
+    "tags": ["frontend", "ui", "react"]
+  },
+  {
+    "id": 2,
+    "title": "Build To-Do API",
+    "description": "Create REST API for tasks with CRUD operations",
+    "status": "pending",
+    "priority": "high",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c",
+    "dueDate": "2026-04-25",
+    "tags": ["backend", "nodejs", "api"]
+  },
+  {
+    "id": 3,
+    "title": "Design app logo",
+    "description": "Create modern cyan logo for Nil's To Do's",
+    "status": "completed",
+    "priority": "medium",
+    "image": "https://images.unsplash.com/photo-1559028012-481c04fa702d",
+    "dueDate": "2026-04-20",
+    "tags": ["design", "branding"]
+  },
+  {
+    "id": 4,
+    "title": "Implement authentication",
+    "description": "Add login/signup using JWT or NextAuth",
+    "status": "pending",
+    "priority": "high",
+    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c",
+    "dueDate": "2026-04-28",
+    "tags": ["auth", "security"]
+  },
+  {
+    "id": 5,
+    "title": "Optimize performance",
+    "description": "Lazy load components and optimize images",
+    "status": "pending",
+    "priority": "medium",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71",
+    "dueDate": "2026-05-01",
+    "tags": ["performance", "optimization"]
+  },
+  {
+    "id": 6,
+    "title": "Deploy project",
+    "description": "Deploy app to Vercel and connect domain",
+    "status": "pending",
+    "priority": "high",
+    "image": "https://images.unsplash.com/photo-1618477247222-acbdb0e159b3",
+    "dueDate": "2026-05-03",
+    "tags": ["deployment", "vercel"]
+  }
+]

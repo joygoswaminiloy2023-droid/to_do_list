@@ -4,7 +4,10 @@ const nextConfig = {
   reactCompiler: true,
 
     images: {
-    domains: ["images.unsplash.com"],
+    domains: [
+      "images.unsplash.com",
+      "global-uploads.webflow.com"
+    ],
   },
 };
 

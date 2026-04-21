@@ -23,7 +23,7 @@ const Nav = () => {
         <div className="flex items-center gap-2">
           <Image src={logo} alt="Nil's To Do Logo" width={40} height={40} />
           <span className="hidden text-lg font-semibold md:block">
-            Nil’s To Do’s
+            <p>Nil-s Todo</p>
           </span>
         </div>
 
